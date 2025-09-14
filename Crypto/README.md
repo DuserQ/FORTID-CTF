@@ -1,1 +1,1 @@
-!(Crypto/image.png)
+![](Crypto/image.png)
