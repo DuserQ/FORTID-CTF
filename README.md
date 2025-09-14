@@ -1,3 +1,3 @@
 # FORTID-CTF
 Cryptography challenges 
-![]([https://fortid.ctfd.io/](https://fortid.ctfd.io/files/14df2b732c388ee70e43859e3c700209/fortid_ctf_logo.jpg))
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c5092746-600f-48a3-9e0e-7566f747c33b" />
